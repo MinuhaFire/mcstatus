@@ -5,7 +5,7 @@ import dns.resolver
 
 
 class MinecraftServer:
-    def __init__(self, host, port=25565):
+    def __init__(self, host, port=19132):
         self.host = host
         self.port = port
 
